@@ -9,6 +9,7 @@ Semester Pojects:
 - Flower Classification
 - Black Jack Simulator
 - Pneumonia X-Ray Classification
+- Game Chat Program
 
 Personal Projects:
 
