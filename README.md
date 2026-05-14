@@ -7,8 +7,11 @@ I want to work as a data scientist in the healthcare field as I enjoy learning t
 Semester Pojects:
 
 - Flower Classification
-- 
+- Black Jack Simulator
+- Pneumonia X-Ray Classification
 
 Personal Projects:
+
+- Heart and Lung Sounds Classification
 
 Competitions:
