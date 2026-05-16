@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\",
+  "WorkspaceRootPath": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4902BDD-1611-4DAE-B122-56A4D6415636}|CreativeProgram.csproj|c:\\users\\delldepot\\documents\\github\\portfolio\\chatprogram2\\creativeprogram\\dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4902BDD-1611-4DAE-B122-56A4D6415636}|CreativeProgram.csproj|solutionrelative:dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\DataService\\SharedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataService\\SharedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4902BDD-1611-4DAE-B122-56A4D6415636}|CreativeProgram.csproj|c:\\users\\delldepot\\documents\\github\\portfolio\\chatprogram2\\creativeprogram\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4902BDD-1611-4DAE-B122-56A4D6415636}|CreativeProgram.csproj|solutionrelative:models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Hubs\\ChatHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hubs\\ChatHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4902BDD-1611-4DAE-B122-56A4D6415636}|CreativeProgram.csproj|c:\\users\\delldepot\\documents\\github\\portfolio\\chatprogram2\\creativeprogram\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4902BDD-1611-4DAE-B122-56A4D6415636}|CreativeProgram.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Models\\UserConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\UserConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4902BDD-1611-4DAE-B122-56A4D6415636}|CreativeProgram.csproj|c:\\users\\delldepot\\documents\\github\\portfolio\\chatprogram2\\creativeprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4902BDD-1611-4DAE-B122-56A4D6415636}|CreativeProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SharedDb.cs",
-              "DocumentMoniker": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\DataService\\SharedDb.cs",
+              "DocumentMoniker": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\DataService\\SharedDb.cs",
               "RelativeDocumentMoniker": "DataService\\SharedDb.cs",
-              "ToolTip": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\DataService\\SharedDb.cs",
+              "ToolTip": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\DataService\\SharedDb.cs",
               "RelativeToolTip": "DataService\\SharedDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T21:29:07.585Z",
               "IsPinned": true,
@@ -52,11 +52,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserConnection.cs",
-              "DocumentMoniker": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Models\\UserConnection.cs",
+              "DocumentMoniker": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\Models\\UserConnection.cs",
               "RelativeDocumentMoniker": "Models\\UserConnection.cs",
-              "ToolTip": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Models\\UserConnection.cs",
+              "ToolTip": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\Models\\UserConnection.cs",
               "RelativeToolTip": "Models\\UserConnection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,9 +67,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Hubs\\ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
-              "ToolTip": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "Hubs\\ChatHub.cs",
               "ViewState": "AQIAAJ0AAAAAkZmZmRkWwIcAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,13 +78,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "ViewState": "AQIAACAAAACAMTMzMzMbwBIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T21:27:55.607Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreativeProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fb45619cd484fe432bcdd33b2fc9bb11298b115")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cd471f62d6ef5ee4f24a38d82a7d32853b616b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreativeProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreativeProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5382,11 +5382,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\CreativeProgram.csproj",
+      "projectUniqueName": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\CreativeProgram.csproj",
       "projectName": "CreativeProgram",
-      "projectPath": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\CreativeProgram.csproj",
+      "projectPath": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\CreativeProgram.csproj",
       "packagesPath": "C:\\Users\\DellDepot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DellDepot\\Documents\\GitHub\\PL\\CreativeProgram\\obj\\",
+      "outputPath": "C:\\Users\\DellDepot\\Documents\\GitHub\\Portfolio\\ChatProgram2\\CreativeProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DellDepot\\AppData\\Roaming\\NuGet\\NuGet.Config",
