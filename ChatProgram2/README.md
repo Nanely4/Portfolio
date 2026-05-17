@@ -23,6 +23,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Nanely4/Portfolio/tree/main/ChatProgram2
+```
 
 ## How it Works
 1. Enter "Username"
