@@ -37,8 +37,11 @@ git clone https://github.com/Nanely4/Portfolio/tree/main/ChatProgram2
 
 
 ## Screenshots
+1. The home page, you enter username and room code here
 <img width="885" height="279" alt="chat1" src="https://github.com/user-attachments/assets/26b30a1c-825c-4215-9784-9e8cd1b74b02" />
+2. The waiting room, anyone can start the game
 <img width="910" height="322" alt="chat2" src="https://github.com/user-attachments/assets/9a577a9a-feff-4a32-b483-1edebf89ba12" />
+3. The game room, this is where the game takes place
 <img width="831" height="392" alt="chat3" src="https://github.com/user-attachments/assets/1694d57f-9f26-4c79-a014-b3cf14c86c6d" />
 
 
