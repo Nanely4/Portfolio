@@ -35,3 +35,7 @@ Classification of chest X-ray images through the use of custom neural networks
   - Frameworks: Torch, Torchvision
  
   # Results
+  - Best model reached 81% accuracy, but must check for baseline accuracy first for comparison
+ 
+  # Future work
+  - Would like to compare my model's accuracy with baseline to see if my model is better than random model (logistic regression)
