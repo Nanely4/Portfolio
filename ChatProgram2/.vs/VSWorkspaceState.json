@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CreativeProgram"
+    "\\CreativeProgram",
+    "\\CreativeProgram\\DataService"
   ],
   "SelectedNode": "\\CreativeProgram\\Program.cs",
   "PreviewInSolutionExplorer": false
