@@ -1,2 +1,0 @@
-# Flower Classification Project
-
